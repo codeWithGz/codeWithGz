@@ -1,7 +1,7 @@
 ## Hi there, it's 'Gz 👋
 
-- 🔭 Estagiário de TI no Fundo Munincipal da Saude
-- 🌱 Atualmente aprendendo Java e DSA
+- 🔭 Procurando por um Estágio em Desenvolvimento de Software
+- 🌱 Atualmente aprendendo Java e Spring Boot
 
 <!--
 **codeWithGz/codeWithGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
